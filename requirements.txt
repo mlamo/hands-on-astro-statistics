@@ -1,0 +1,5 @@
+ipywidgets
+matplotlib>=3.11
+numpy>=2
+scipy>=1.18
+tqdm
